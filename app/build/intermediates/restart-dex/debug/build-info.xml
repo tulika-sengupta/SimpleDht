@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="ldpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1400041293083983"
+    token="-8971538818965405499"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="441" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="23" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="C:\Users\tulik\Documents\study\android\PA3\SimpleDht\SimpleDht\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1400041293083983"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\tulik\Documents\study\android\PA3\SimpleDht\SimpleDht\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

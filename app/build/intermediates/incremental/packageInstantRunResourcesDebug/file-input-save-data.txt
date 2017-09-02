@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Thu Apr 13 15:39:06 EDT 2017
+1.base=C\:\\Users\\tulik\\Documents\\study\\android\\PA3\\SimpleDht\\SimpleDht\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\tulik\\Documents\\study\\android\\PA3\\SimpleDht\\SimpleDht\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_simple_dht_main.xml
+1.file=C\:\\Users\\tulik\\Documents\\study\\android\\PA3\\SimpleDht\\SimpleDht\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_simple_dht_main.xml
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Users\\tulik\\Documents\\study\\android\\PA3\\SimpleDht\\SimpleDht\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\tulik\\Documents\\study\\android\\PA3\\SimpleDht\\SimpleDht\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\tulik\\Documents\\study\\android\\PA3\\SimpleDht\\SimpleDht\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\tulik\\Documents\\study\\android\\PA3\\SimpleDht\\SimpleDht\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\tulik\\Documents\\study\\android\\PA3\\SimpleDht\\SimpleDht\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldpi-v4\\ic_launcher.png
+0.file=C\:\\Users\\tulik\\Documents\\study\\android\\PA3\\SimpleDht\\SimpleDht\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.base=C\:\\Users\\tulik\\Documents\\study\\android\\PA3\\SimpleDht\\SimpleDht\\app\\build\\intermediates\\res\\resources-debug.ap_
